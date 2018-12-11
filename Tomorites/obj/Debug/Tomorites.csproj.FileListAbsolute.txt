@@ -1,0 +1,15 @@
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\bin\Debug\Tomorites.exe.config
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\bin\Debug\Tomorites.exe
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\bin\Debug\Tomorites.pdb
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\Tomorites.csprojAssemblyReference.cache
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\MainWindow.g.cs
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\App.g.cs
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\Tomorites_MarkupCompile.cache
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\Tomorites_MarkupCompile.lref
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\MainWindow.baml
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\Tomorites.g.resources
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\Tomorites.Properties.Resources.resources
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\Tomorites.csproj.GenerateResource.cache
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\Tomorites.csproj.CoreCompileInputs.cache
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\Tomorites.exe
+E:\programozás\C#\egyetem\szakkor\tomorites_wpf\Tomorites\Tomorites\obj\Debug\Tomorites.pdb

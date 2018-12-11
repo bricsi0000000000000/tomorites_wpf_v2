@@ -1,0 +1,17 @@
+﻿<Window x:Class="Tomorites.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tomorites"
+        mc:Ignorable="d"
+        Title="Tömörítés" Height="200.099" Width="382.33" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,0,1">
+        <Label Content="Tömörítés" HorizontalAlignment="Left" Margin="22,10,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Height="42" Width="122"/>
+        <Label Content="Kicsomagolás" HorizontalAlignment="Right" Margin="0,10,28,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Grid.ColumnSpan="2" Height="42" Width="164"/>
+        <Button Name="kicsomagolandoSzovegTallozasBtn" Content="Szöveg tallózása" HorizontalAlignment="Right" Margin="0,58,36,0" VerticalAlignment="Top" Width="147" Height="47" FontSize="16" FontWeight="Bold" Background="#FFE6E6E6" BorderBrush="White" Click="kicsomagolandoSzovegTallozasBtn_Click"/>
+        <Button Name="kulcsTallozasBtn" Content="Kulcs tallózása" HorizontalAlignment="Right" Margin="0,110,36,0" VerticalAlignment="Top" Width="147" Height="47" FontSize="16" FontWeight="Bold" Background="#FFE6E6E6" BorderBrush="White" Click="kulcsTallozasBtn_Click"/>
+        <Button Name="tomoritendoSzovegTallozasBtn" Content="Szöveg tallózása" HorizontalAlignment="Left" Margin="10,57,0,0" VerticalAlignment="Top" Width="147" Height="47" Click="tomoritendoSzovegTallozasBtn_Click" FontSize="16" Background="#FFE6E6E6" BorderBrush="White" Foreground="Black" FontWeight="Bold"/>
+        <Label Name="bekert_szovegek_szama_lbl" Content="Bekért szövegek száma: 0" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" Width="147"/>
+    </Grid>
+</Window>
